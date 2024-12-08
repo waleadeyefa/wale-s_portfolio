@@ -1,12 +1,5 @@
 # Wale's Portfolio
 
-## [Cyber Bullying Detection System]
-Project Overview
-Objective:
-Develop a Python-based system that identifies and prevents harmful online messages to promote safer interactions on social media platforms.
+# [Cyber Bullying Detection System]
+This is a capstone project I completed in the final year of my Bachelor's degree in Information Technology. I developed a Python-based system that identifies and prevents harmful online messages, such as hate speech and threats, to promote safer and more respectful interactions on social media platforms.
 
-Highlights:
-
-Technology: Python, Natural Language Processing (NLP), and Machine Learning (LSTM models).
-Focus: Detect and block messages containing hate speech, threats, or mocking.
-Interactivity: Provides real-time feedback to users on flagged messages.
