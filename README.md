@@ -9,7 +9,8 @@ This is a capstone project I completed in the final year of my Bachelor's degree
 * Focus: Detect and block messages containing hate speech, threats, or mocking.
 * Interactivity: Provides real-time feedback to users on flagged messages.
   
-## Visualization of Cyberbullying Trends and Impacts ![](
+## Visualization of Cyberbullying Trends and Impacts ![](cyberbullyingcharts.png)
+
 ## Core Functionality Code: Harmful Message Detection System ![](detection_system.png)
 This script implements the primary functionality of the Cyberbullying Detection System by:
 
