@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wale Adeyefa's Data Science Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; margin: 0; padding: 0; color: #333; }
+        nav ul { display: flex; justify-content: space-around; background-color: #004080; padding: 1em 0; }
+        nav ul li { list-style: none; }
+        nav ul li a { color: #fff; text-decoration: none; font-weight: bold; }
+        .hero { padding: 60px 20px; background-color: #f5f5f5; text-align: center; color: #004080; }
+        .hero h1 { margin: 0.5em 0; }
+        .content { max-width: 900px; margin: 40px auto; padding: 20px; }
+        .project { border-bottom: 1px solid #ddd; padding-bottom: 30px; margin-bottom: 30px; }
+        footer { background-color: #004080; color: #fff; text-align: center; padding: 20px 0; }
+        .project img { max-width: 100%; height: auto; margin-top: 10px; }
+        .project h3 { color: #004080; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="hero">
+            <h1>Wale Adeyefa</h1>
+            <p>Data Scientist Innovating Solutions with Passion, Precision, and Analytical Expertise</p>
+        </div>
+    </header>
+
+    <main class="content">
+        <section id="home">
+            <h2>Welcome</h2>
+            <p>Welcome to my portfolio. I specialize in data science, focusing on transforming data into actionable insights through machine learning and statistical analysis. Browse through my projects to see how I tackle complex challenges with innovative solutions.</p>
+        </section>
+
+        <section id="projects">
+            <h2>Featured Projects</h2>
+            <div class="project">
+                <h3>Cyber Bullying Detection System</h3>
+                <p>As part of my capstone project, I developed a Python-based system aimed at detecting and preventing harmful online interactions, promoting safer social media spaces.</p>
+                <ul>
+                    <li><strong>Technology:</strong> Python, NLP, LSTM Models</li>
+                    <li><strong>Focus:</strong> Detect and block messages containing hate speech or threats.</li>
+                    <li><strong>Interactivity:</strong> Provides real-time feedback to users.</li>
+                </ul>
+                <img src="conceptual_design.png" alt="Technical Architecture Diagram" />
+                <p>The system's workflow involves six phases: data collection, preprocessing, classification, testing, evaluation, and comprehensive analysis.</p>
+                <img src="harmful_message_detector.png" alt="Core Functionality Code" />
+                <p>The script efficiently checks inputs against a word bank, providing instant feedback to promote respectful communication.</p>
+                <img src="cyberbullyingcharts.png" alt="Visualization of Cyberbullying Trends" />
+                <p>Data visualizations highlight the prevalence and impact of cyberbullying, illustrating user exposure, incident frequency, and mental health impacts.</p>
+            </div>
+        </section>
+
+        <section id="about">
+            <h2>About Me</h2>
+            <p>I'm a data scientist passionate about leveraging data to address complex problems. My expertise lies in combining technical skills with innovative thinking to deliver impactful solutions that drive positive change.</p>
+        </section>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Interested in collaborating or discussing insights? Reach out through the form below, and let's connect!</p>
+            <form>
+                <input type="text" placeholder="Your Name" required><br>
+                <input type="email" placeholder="Your Email" required><br>
+                <textarea placeholder="Your Message" required></textarea><br>
+                <button type="submit">Send Message</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Wale Adeyefa</p>
+        <p>Connect with me on <a href="https://github.com/waleadeyefa" target="_blank" style="color: #fff;">GitHub</a> | <a href="https://linkedin.com/in/waleadeyefa" target="_blank" style="color: #fff;">LinkedIn</a></p>
+    </footer>
+
+</body>
+</html>
