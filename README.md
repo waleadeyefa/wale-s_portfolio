@@ -12,9 +12,9 @@ This is a capstone project I completed in the final year of my Bachelor's degree
 ## Visualization of Cyberbullying Trends and Impacts ![](cyberbullyingcharts.png)
 This section highlights the analysis of cyberbullying data through insightful visualizations to better understand its prevalence and consequences. The key features include:
 
-*Percentage of Users Exposed to Harmful Content: A bar chart comparing exposure rates across different social media platforms.
-*Frequency of Cyberbullying Incidents: A pie chart showing how often users experience cyberbullying, categorized as daily, weekly, or monthly.
-*Impact on Mental Health: A horizontal bar graph illustrating the psychological effects of cyberbullying, such as anxiety, depression, and other impacts.
+* Percentage of Users Exposed to Harmful Content: A bar chart comparing exposure rates across different social media platforms.
+* Frequency of Cyberbullying Incidents: A pie chart showing how often users experience cyberbullying, categorized as daily, weekly, or monthly.
+* Impact on Mental Health: A horizontal bar graph illustrating the psychological effects of cyberbullying, such as anxiety, depression, and other impacts.
 
 ## Core Functionality Code: Harmful Message Detection System ![](detection_system.png)
 This script implements the primary functionality of the Cyberbullying Detection System by:
