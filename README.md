@@ -9,3 +9,8 @@ This is a capstone project I completed in the final year of my Bachelor's degree
 * Focus: Detect and block messages containing hate speech, threats, or mocking.
 * Interactivity: Provides real-time feedback to users on flagged messages.
 ## Core Functionality Code: Harmful Message Detection System ![](detection_system.png)
+This script implements the primary functionality of the Cyberbullying Detection System by:
+
+* Loading a Custom Word Bank: Reads a pre-defined set of harmful or offensive words stored in a word_bank.txt file.
+* User Input Validation: Accepts user comments and checks them against the word bank to identify potentially harmful content.
+* Real-Time Feedback: Provides immediate feedback by alerting users to rephrase their comments if harmful words are detected.
