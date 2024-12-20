@@ -8,6 +8,8 @@ This is a capstone project I completed in the final year of my Bachelor's degree
 * Technology: Python, Natural Language Processing (NLP), and Machine Learning (LSTM models).
 * Focus: Detect and block messages containing hate speech, threats, or mocking.
 * Interactivity: Provides real-time feedback to users on flagged messages.
+  
+## Visualization of Cyberbullying Trends and Impacts ![](
 ## Core Functionality Code: Harmful Message Detection System ![](detection_system.png)
 This script implements the primary functionality of the Cyberbullying Detection System by:
 
