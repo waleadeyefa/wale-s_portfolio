@@ -9,7 +9,8 @@ This is a capstone project I completed in the final year of my Bachelor's degree
 * Focus: Detect and block messages containing hate speech, threats, or mocking.
 * Interactivity: Provides real-time feedback to users on flagged messages.
   
-## Technical Architecture of the Detection System ![](
+## Technical Architecture of the Detection System ![](conceptual design.png)
+This diagram illustrates the six-phase workflow of the detection system, highlighting data collection, pre-processing, classification, testing, evaluation, and comprehensive analysis to create a safer online environment.
 
 ## Core Functionality Code: Harmful Message Detection System ![](detection_system.png)
 This script implements the primary functionality of the Cyberbullying Detection System by:
