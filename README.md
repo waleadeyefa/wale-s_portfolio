@@ -53,3 +53,5 @@ To enhance and scale the system, the following improvements are suggested:
 * Multilingual Support: Expand detection to multiple languages for global applicability.
 * Platform Scalability: Optimize the system for handling large data volumes on social media platforms.
 * Social Media Integration: Enable seamless integration with social media APIs for broader adoption.
+
+# Project 2: 
