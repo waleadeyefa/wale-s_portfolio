@@ -20,11 +20,22 @@ This script implements the primary functionality of the Cyberbullying Detection 
 * Real-Time Feedback: Provides immediate feedback by alerting users to rephrase their comments if harmful words are detected.
   
 ## Visualization of Cyberbullying Trends and Impacts ![](combinedanalysis.png)
-This section highlights the analysis of cyberbullying data through insightful visualizations to better understand its prevalence and consequences. The key features include:
+These graphs illustrate the prevalence and impact of cyberbullying, using data from reliable sources.
 
-* Percentage of Users Exposed to Harmful Content: A bar chart comparing exposure rates across different social media platforms.
-* Frequency of Cyberbullying Incidents: A pie chart showing how often users experience cyberbullying, categorized as daily, weekly, or monthly.
-* Impact on Mental Health: A horizontal bar graph illustrating the psychological effects of cyberbullying, such as anxiety, depression, and other impacts.
+Graph 1: Percentage of Users Exposed to Harmful Content
+* Source: Ministry of Digital Development and Information (MDDI) Online Safety Poll (2024).
+* Insight: Facebook leads with 57% of users encountering harmful content, followed by Instagram (45%) and TikTok (40%).
+Graph 2: Cyberbullying Prevalence Rates Over Time
+* Source: Studies by Patchin & Hinduja, CDC, and others.
+* Insight: Cyberbullying rates have risen over time, with spikes in 2015 and 2023.
+Graph 3: Impact on Mental Health
+* Source: Frontiers in Psychology (2024).
+* Insight: Anxiety (65%) and depression (58%) are the most common impacts, highlighting the psychological toll of cyberbullying.
+
+Overall Process
+* Data Collection: Gathered data from government surveys, academic studies, and longitudinal reports.
+* Data Cleaning: Extracted relevant statistics and ensured consistency across sources.
+* Visualization: Created clear and informative charts using Python libraries (Matplotlib and Seaborn) to depict trends and impacts effectively.
 
 ## Project Outcomes
 The Cyberbullying Detection System successfully demonstrated its ability to identify and prevent harmful online interactions. Key outcomes include:
