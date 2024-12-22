@@ -19,7 +19,7 @@ This script implements the primary functionality of the Cyberbullying Detection 
 * User Input Validation: Accepts user comments and checks them against the word bank to identify potentially harmful content.
 * Real-Time Feedback: Provides immediate feedback by alerting users to rephrase their comments if harmful words are detected.
   
-## Visualization of Cyberbullying Trends and Impacts ![](cyberbullyingcharts.png)
+## Visualization of Cyberbullying Trends and Impacts ![](combinedanalysis.png)
 This section highlights the analysis of cyberbullying data through insightful visualizations to better understand its prevalence and consequences. The key features include:
 
 * Percentage of Users Exposed to Harmful Content: A bar chart comparing exposure rates across different social media platforms.
