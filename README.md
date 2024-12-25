@@ -20,7 +20,7 @@ This script implements the primary functionality of the Cyberbullying Detection 
 * Real-Time Feedback: Provides immediate feedback by alerting users to rephrase their comments if harmful words are detected.
   
 ## Visualization of Cyberbullying Trends and Impacts ![](combinedanalysis.png)
-These graphs illustrate the prevalence and impact of cyberbullying, using data from reliable sources.
+I used Python to analyze data on cyberbullying trends and impacts, leveraging libraries like Matplotlib and Seaborn to create visualizations. The graphs display key insights, such as the prevalence of harmful content across platforms, trends in cyberbullying incidents over time, and its effects on mental health.
 
 Graph 1: Percentage of Users Exposed to Harmful Content
 * Source: Ministry of Digital Development and Information (MDDI) Online Safety Poll (2024).
